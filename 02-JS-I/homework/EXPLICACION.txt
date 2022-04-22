@@ -1,0 +1,5 @@
+* Variable = un espacio de la memoria ram que guarda un dato.
+* Strings = es una cadena de caracteres.
+* Funciones = es un objeto que puede ser llamado en cualquier momento para ejecutar las instrucciones dadas dentro de ella.
+* Declaraciones if = es un controlador de flujo que evalua una condicion y dependiendo si es falsa o verdadera ejecutara una accion.
+* Valores booleanos = los valores booleanos solo son 2 False o True y sirven para evaluar una condicion.
