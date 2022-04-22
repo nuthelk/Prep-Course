@@ -1,0 +1,4 @@
+for = es un bucle que ejecuta la misma instruccion la cantidad de veces que requeramos 
+&& = es un operador logico que representa la Y, osea que todas las condiciones deben ser verdaderas
+|| = un operador logico que representa la O, osea que una de las condiciones debe ser verdadera
+! = simbolo de negacion, niegas cualquier condicion  
